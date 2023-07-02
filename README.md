@@ -1,4 +1,4 @@
-# <span style="color:pink">Hi! I'm a junior developer ⭐️</span>
+# Hi! I'm a junior developer ⭐️
 
 
 ## <span style="color:pink">☎️ Connect with me:</span>
