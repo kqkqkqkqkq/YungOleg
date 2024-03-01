@@ -1,4 +1,4 @@
-# Hi! I'm a junior developer ⭐️
+# Hi!⭐️
 
 
 ## ☎️ Connect with me:
